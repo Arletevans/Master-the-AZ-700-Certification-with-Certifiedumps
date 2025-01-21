@@ -6,7 +6,7 @@ The AZ-700 (Designing and Implementing Microsoft Azure Networking Solutions) cer
 
 More info at : https://www.certifiedumps.com/microsoft/az-400-dumps.html
 
-![done (52)](https://github.com/user-attachments/assets/0aee5adb-15f9-4fff-a830-4fa815d06601)
+![done (53)](https://github.com/user-attachments/assets/f3560077-e52e-447c-8279-a9ccfaf42801)
 
 
 🌟 What Is the AZ-700 Exam?
